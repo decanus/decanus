@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on peer-to-peer messaging protocols at [vac](https://vac.dev).
-- 💬 Ask me about distributed & decentralized systems or anything about computer stuff.
+- 🔭 I’m currently working on [Soapbox](https://soapbox.social).
+- 💬 Ask me about anything about computer stuff.
 - 📫 You can reach me on [my website](https://dean.eigenmann.me).
